@@ -7,4 +7,5 @@ Prody    2.2.0<br>
 Numpy    1.23.4<br>
 Scipy    1.7.1<br>
 <br>
-AutoDockFR should be downloaded and installed. Its "bin" path should be added to enviromental variables. AutoDockFR is at https://ccsb.scripps.edu/adfr/downloads/ 
+AutoDockFR should be downloaded and installed. Its "bin" path should be added to enviromental variables. AutoDockFR is at https://ccsb.scripps.edu/adfr/downloads/ <p>
+Paper for QDock is in preparation.
