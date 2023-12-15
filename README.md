@@ -9,4 +9,5 @@ Numpy    1.23.4<br>
 Scipy    1.7.1<br>
 <br>
 AutoDockFR should be downloaded and installed. Its "bin" path should be added to enviromental variables. AutoDockFR is at https://ccsb.scripps.edu/adfr/downloads/ <p>
-Paper for QDock is in preparation.
+If you found QDock useful, please cite the followiung article.<p>
+https://doi.org/10.1021/acs.jctc.3c00943
